@@ -77,3 +77,4 @@ func (m Model) realIndex(filteredIdx int) int {
 		}
 	}
 	return -1
+}
